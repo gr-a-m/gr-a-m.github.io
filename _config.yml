@@ -1,10 +1,15 @@
 # Site settings
 title: Grant Marshall
 email: gam@grantamarshall.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "My (Grant Marshall) website and blog: where you can find what ML and programming projects I'm working on and other mathematics and music related posts."
 baseurl: ""
 url: "http://grantamarshall.com"
+github_username: gr-a-m
+twitter_username: gr_a_m
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Global settings
+timezone: America/Phoenix
