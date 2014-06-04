@@ -1,7 +1,7 @@
 # Site settings
 title: Grant Marshall
 email: gam@grantamarshall.com
-description: "My (Grant Marshall) website and blog: where you can find what ML and programming projects I'm working on and other mathematics and music related posts."
+description: "My (Grant Marshall) website and blog: where I write about programming, machine learning, computer science, and mathematics."
 baseurl: ""
 url: "http://grantamarshall.com"
 github_username: gr-a-m
