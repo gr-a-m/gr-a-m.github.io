@@ -21,21 +21,21 @@ ClinicMate is a program I wrote during my second year at ASU as the final projec
 
 Kraken is a program that I wrote to distribute load in genomic data extraction pipelines for TGen during my time as a Helios scholar there during the Summer of 2013. It was written in Perl because that is the scripting language that I could rely on every server in the HPC cluster being able to run (other than Bash) and everyone in the lab group understood Perl. It started out small, but quickly sprawled out into being fairly sophisticated, being able to drop in different analysis modules and distribute loads depending on the size of the data sets and experiments I conducted to measure runtimes. This is what gave it the name. Having the chance to play around with Moose, an object system written for Perl, and systems with multiple terrabytes of memory was a fun experience.
 
-<h3>TweetTracker Desktop</h3>
+<!-- <h3>TweetTracker Desktop</h3>
 
-TTD description
+TTD description -->
 
 <h3>GrCal</h3>
 
 GrCal is a program written in Haskell for my Intermediate Abstract Algebra honors contract in the Spring of 2014. Its purpose is to perform simple operations on Groups (the algebraic structure). This was a very fun project because it was my first project to make use of Haskell, which has since become my favorite pet language. As a part of the honors contract requirements, I made a write-up explaining some functions and examples of using the program which you can see [here][5]. The source code can also be found [here][6].
 
-<h3>TweetTracker</h3>
+<!-- <h3>TweetTracker</h3>
 
-TT descrption
+TT descrption -->
 
-<h3>TwitTP</h3>
+<!-- <h3>TwitTP</h3>
 
-TwitTP description
+TwitTP description -->
 
 [1]: http://dmml.asu.edu
 [2]: http://more.engineering.asu.edu/furi/
